@@ -1,6 +1,6 @@
-#Lines Portfolio
+# Lines Portfolio
 
-##Introduction
+## Introduction
 This portfolio site is part of a Udacity assignment for my Front-end web developer degree that I so ambitiously started when going on maternity leave.
 
-##Changelog
+## Changelog
